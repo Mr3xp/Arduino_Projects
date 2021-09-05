@@ -1,1 +1,9 @@
-sda
+The project is mostly based on the excisting on from LFK so go chenk it out first. (https://www.littlefrenchkev.com/bluetooth-nerf-turret)
+
+To make this project different a little i wanted to use a camera and with the help of machine learnig to make a model that detects a human face and after it detected it
+shoots a nerf bullet.
+  
+  
+---------Some extra information about this project-----------------
+  As i was searching a few ideas in arduino hub i found this project from Little French Kev aka LFK about a nerf turret and i really want to try and build it. My skills 
+and knoewledge from the time i build my first project have grown so i understood much better what i was doing and why.
